@@ -6,7 +6,7 @@ To predict whether revenue would be generated when a customer visit a website pa
 Based on the features available for a website we need to predict whether a visit from a customer would result in generation in revenue.
 
 By analysis of a customer's behaviour pattern e.g- type of product been searched, duration of stay, we can determine the optimal variation that would corresponds
-to maximization of correlation of dependancy of target variable on independent feature.
+to maximization of correlation of dependency of target variable on independent feature.
 
 # Number of customers in various features
 ![](visuals/count-features.png)
